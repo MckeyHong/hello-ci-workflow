@@ -6,3 +6,5 @@ describe('Array', function(){
     })
   })
 })
+
+assert.equal(3, [1,2,3].indexOf(5));
